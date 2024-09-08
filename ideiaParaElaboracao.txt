@@ -1,0 +1,14 @@
+Um cliente quer que seja desenvolvido um "bot" de mensagens automáticas
+para que ele possa enviar automaticamente para seus clientes
+sem que seja preciso escrever nada no teclado.
+Também quer que seja feito isso de acordo com a lista de clientes 
+que devem de acordo com os prazos estabelecidos.
+
+como automatizar esse processo?
+
+onde será feito? (Whatsapp Web)
+quais tecnologias preciso para resolver essa demanda?
+# teclado (Pyautogui)
+# acesso ao site (webbrowser)
+# automatizar digitação (link whatsapp)
+# automatizar leitura de dados de uma planilha (openpyxl)
